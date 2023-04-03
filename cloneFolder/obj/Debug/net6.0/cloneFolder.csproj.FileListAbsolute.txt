@@ -1,0 +1,15 @@
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\bin\Debug\net6.0\cloneFolder.exe
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\bin\Debug\net6.0\cloneFolder.deps.json
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\bin\Debug\net6.0\cloneFolder.runtimeconfig.json
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\bin\Debug\net6.0\cloneFolder.dll
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\bin\Debug\net6.0\cloneFolder.pdb
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.csproj.AssemblyReference.cache
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.AssemblyInfoInputs.cache
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.AssemblyInfo.cs
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.csproj.CoreCompileInputs.cache
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.dll
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\refint\cloneFolder.dll
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.pdb
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\cloneFolder.genruntimeconfig.cache
+C:\Users\joao.oliveira\source\repos\cloneFolder\cloneFolder\obj\Debug\net6.0\ref\cloneFolder.dll
